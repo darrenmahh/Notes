@@ -1,0 +1,26 @@
+{
+  "database": "Zotero",
+  "noteImportFolder": "zotero-note",
+  "pdfExportImageDPI": 120,
+  "pdfExportImageFormat": "jpg",
+  "pdfExportImageQuality": 90,
+  "citeFormats": [
+    {
+      "name": "Format #1",
+      "format": "formatted-citation"
+    }
+  ],
+  "exportFormats": [
+    {
+      "name": "导入笔记",
+      "outputPathTemplate": "13-zoteronote/{{citekey}}.md",
+      "imageOutputPathTemplate": "09-附件文件夹/{{citekey}}/",
+      "imageBaseNameTemplate": "image",
+      "templatePath": "00_系统配置/zotero_note_template.md",
+      "cslStyle": "china-national-standard-gb-t-7714-2015-numeric"
+    }
+  ],
+  "citeSuggestTemplate": "[[{{citekey}}]]",
+  "openNoteAfterImport": false,
+  "whichNotesToOpenAfterImport": "first-imported-note"
+}

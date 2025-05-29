@@ -1,0 +1,13 @@
+{
+  "searchViewState": {
+    "collapseAll": false,
+    "explainSearch": false,
+    "extraContext": false,
+    "matchingCase": false,
+    "query": "```mermaidgraph LR    A[开始] --> B{条件判断}    B -- 是 --> C[执行分支1]    B -- 否 --> D[执行分支2]    C --> E[结束]    D --> E[结束]",
+    "sortOrder": "alphabetical"
+  },
+  "showFilePath": false,
+  "showInstructions": true,
+  "defaultViewType": "modal"
+}
