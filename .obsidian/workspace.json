@@ -4,21 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "782f4aafbc88f4dd",
+        "id": "cfc7bcaba697533e",
         "type": "tabs",
         "children": [
           {
-            "id": "913142298c063258",
+            "id": "b3498a00141071c5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-论文汇总/00-内容/实验思路.md",
-                "mode": "preview",
+                "file": "01-论文汇总/02-数据/02-参数处理步骤.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "实验思路"
+              "title": "02-参数处理步骤"
+            }
+          },
+          {
+            "id": "ebb3a5b0bfe685e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01-论文汇总/02-数据/01-论文参数.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01-论文参数"
             }
           }
         ]
@@ -41,7 +55,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -94,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01-论文汇总/00-内容/实验思路.md",
+                "file": "01-论文汇总/00-内容/目录.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "实验思路 的反向链接列表"
+              "title": "目录 的反向链接列表"
             }
           },
           {
@@ -170,24 +184,29 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "float-search:Search obsidian in modal view": false,
       "templater-obsidian:Templater": false,
-      "mermaid-tools:Open Mermaid Toolbar": false,
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "e945d6d16a11f41b",
+  "active": "b3498a00141071c5",
   "lastOpenFiles": [
-    "01-论文汇总/00-内容",
-    "01-论文汇总/00-内容/目录.md",
-    "01-论文汇总/00-内容/疑问.md",
-    "01-论文汇总/00-内容/实验思路.md",
     "01-论文汇总/02-数据/01-论文参数.md",
-    "05-GWY/01-行测/01-资料分析/高照夸夸刷.md",
-    "01-论文汇总/08-论文pdf/通量GPP计算.pdf",
+    "01-论文汇总/02-数据/02-参数处理步骤.md",
+    "03-Leetcode/leetcode-master-master/problems/0206.翻转链表.md",
+    "03-Leetcode/leetcode-master-master/README.md",
+    "03-Leetcode/leetcode-master-master/problems/哈希表理论基础.md",
     "01-论文汇总/02-数据/01-01-植被指数.md",
     "01-论文汇总/02-数据/01-02-地理特征.md",
     "01-论文汇总/02-数据/01-03-纹理特征.md",
+    "05-GWY/01-行测/02-逻辑判断/0102-花生十三逻辑判断/判断推理知识点梳理.md",
+    "05-GWY/01-行测/00-题集汇总.md",
+    "05-GWY/01-行测/01-资料分析/高照夸夸刷.md",
+    "01-论文汇总/00-内容/目录.md",
+    "01-论文汇总/00-内容/实验思路.md",
+    "01-论文汇总/00-内容/疑问.md",
+    "01-论文汇总/00-内容",
+    "01-论文汇总/08-论文pdf/通量GPP计算.pdf",
     "01-论文汇总/01-老师/基于涡度协方差与卫星遥感的...沼湿地总初级生产力估算研究_杨芷璇.md",
     "06-assets/img 1/4/d/5/4d561b4ec8802072c4ddb15637565dcd4e536d06f14d0a4858127f4308b9acb7.png",
     "06-assets/img 1/4/d/5",
@@ -199,22 +218,16 @@
     "01-论文汇总/01-老师/普达措国家公园植被净初级生...时空变化及对环境因子的响应_赵德柱.md",
     "01-论文汇总/01-老师/基于机器学习的青藏高原总初级生产力估算研究_戴婕.md",
     "05-GWY/02-申论/白鹭申论进度.md",
-    "03-Leetcode/leetcode-master-master/README.md",
     "03-Leetcode/leetcode-master-master/problems/0707.设计链表.md",
     "05-GWY/01-行测/03-言语理解/郭照100题.md",
     "05-GWY/01-行测/03-言语理解/词语汇总.md",
     "05-GWY/01-行测/02-逻辑判断/0102-花生十三逻辑判断/花生十三逻辑600题.md",
     "0527-三.md",
-    "05-GWY/01-行测/02-逻辑判断/0102-花生十三逻辑判断/判断推理知识点梳理.md",
     "01-论文汇总/08-论文pdf",
-    "05-GWY/01-行测/00-题集汇总.md",
     "05-GWY/01-行测/03-言语理解",
     "05-GWY/01-行测/02-逻辑判断",
-    "05-GWY/01-行测/01-资料分析",
     "03-Leetcode/leetcode-master-master/problems/0203.移除链表元素.md",
     "花生十三逻辑判断.md",
-    "04-Springboot项目/后端/账号密码.md",
-    "02-碳汇项目/Java.md",
     "03-Leetcode/leetcode-master-master/problems/images/0110.字符串接龙-03.png",
     "03-Leetcode/leetcode-master-master/pics/训练营.png",
     "03-Leetcode/leetcode-master-master/pics/网站星球宣传海报.jpg",
